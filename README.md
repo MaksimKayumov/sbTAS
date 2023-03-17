@@ -12,4 +12,5 @@ To play TAS set variable "Play Movie" to 1
 
 # Changelog
 1.0: First version of sbTAS which consists of multiple TAS Engines
+
 2.0: Current version of sbTAS
